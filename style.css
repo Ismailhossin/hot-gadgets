@@ -1,0 +1,98 @@
+.container h2{
+    margin-bottom: 30px;
+}
+/* meun */
+.header{
+    margin-top: 40px;
+}
+.logo{
+    margin-top: -20px;
+}
+.meun ul li{
+    list-style: none;
+}
+.meun ul li a{
+    padding: 10px 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+}
+/* slide */
+.carousel-item{
+    margin-bottom: 50px;
+}
+.carousel-item .bay-naw{
+    border: none; 
+    background-color: black;
+    color: aliceblue;
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+/* smartphoto */
+.col{
+    margin-bottom: 50px;
+}
+.card{
+    text-align: center;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 0 10px;
+    padding: 20px 10px 0 0;
+}
+.card img{
+    max-width: 70%;
+    margin-left: 60px;
+}
+
+.text-product h3,
+.text-product h5{
+    margin-bottom: 20px;
+}
+.text-product h5{
+    color: orange;
+}
+.card .bay-naw{
+    border: none; 
+    background-color: black;
+    color: aliceblue;
+    padding: 10px 20px;
+    border-radius: 8px;
+    text-transform: uppercase;
+}
+/* bag */
+.bag{
+    width: 200px;
+    height: 200px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.bag img{
+    max-width: 70%;
+    margin-top: -20px;
+    margin-left: -30px;
+}
+.bag h3{
+    margin-top: 160px;
+    margin-left: -100px;
+}
+.shos-perfume :nth-child(1){
+    width: 200px;
+    height: 200px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 20px;
+    padding: 30px;
+    margin-bottom: 20px;
+    
+}
+.shos-perfume :nth-child(2){
+    width: 200px;
+    height: 200px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 20px;
+    padding: 50px;
+}
